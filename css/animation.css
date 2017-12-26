@@ -1,0 +1,42 @@
+.animated {
+    animation-duration: 0.4s;
+    -webkit-animation-duration: 0.4s;
+    -moz-animation-duration: 0.4s;
+    -o-animation-duration: 0.4s;
+    -ms-animtion-duration: 0.4s;
+}
+
+section.slider .content {
+    overflow: hidden;
+}
+
+section.slider .content .what-we-do-content .what-we .animation {
+    animation-delay: 0.3s;
+    -webkit-animation-delay: 0.3s;
+    -moz-animation-delay: 0.3s;
+    -o-animation-delay: 0.3s;
+    -ms-animtion-delay: 0.3s;
+}
+
+section.slider .content .customers .animation,
+section.slider .content .footer .what-we-do .animation,
+section.slider .content .footer .container .row .col-md-3 .animation {
+    animation-delay: 0.3s;
+    -webkit-animation-delay: 0.3s;
+    -moz-animation-delay: 0.3s;
+    -o-animation-delay: 0.3s;
+    -ms-animtion-delay: 0.3s;
+}
+
+section.slider .content .portfolio .animation,
+section.slider .content .how-it-works .container .animation,
+section.slider .content .testimonials .row .col-md-4,
+section.slider .content .work .row .col-md-3,
+section.slider .content .feedbacks .animation,
+section.slider .content .feedbacks .container .row .feedbacks-carousel .animation {
+    animation-delay: 0.3s;
+    -webkit-animation-delay: 0.3s;
+    -moz-animation-delay: 0.3s;
+    -o-animation-delay: 0.3s;
+    -ms-animtion-delay: 0.3s;
+}
